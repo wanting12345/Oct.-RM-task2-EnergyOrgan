@@ -1,0 +1,2 @@
+/usr/bin/ar qc liborgan.a  CMakeFiles/organ.dir/organ.cpp.o
+/usr/bin/ranlib liborgan.a

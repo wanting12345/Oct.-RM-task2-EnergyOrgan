@@ -1,0 +1,6 @@
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/CMakeFiles/test.dir
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/CMakeFiles/edit_cache.dir
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/class/organ/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/class/organ/CMakeFiles/organ.dir
+/home/yevette/文档/git/Oct.-RM-task2-EnergyOrgan/Energy_organ/build/class/organ/CMakeFiles/edit_cache.dir
